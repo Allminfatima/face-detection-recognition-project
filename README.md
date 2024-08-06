@@ -18,4 +18,4 @@ This project demonstrates a real-time face recognition system built using Python
 ## Setup
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/face-recognition-project.git
+   git clone https://github.com/Allminfatima/face-detection-recognition-project.git
