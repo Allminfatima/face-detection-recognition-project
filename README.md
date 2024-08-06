@@ -10,7 +10,7 @@ This project demonstrates a real-time face recognition system built using Python
 - Dynamic camera UI adjustments.
 - Error handling and data visualization.
 
-##Files
+## Files
 - train_face_recognizer.py: Script to train the face recognizer model.
 - train.py: Script to perform real-time face recognition and save results to an Excel file.
 - photos/: Directory containing images for training.
